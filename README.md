@@ -2,11 +2,7 @@
   A Computer Engineering Student 💻
 </h2>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=samipneupane&label=Profile%20views&color=0e75b6&style=flat" alt="samipneupane"> 
-</p>
 <br>
-
  <h4 align="center">
   - 🔭 I’m currently studying in: Pulchowk Engineering Campus
 </h4>
