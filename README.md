@@ -1,12 +1,15 @@
 <h2 align="center">
-  A Computer Engineering Graduate 💻
+  A Computer Engineering Graduate 💻<br><br>
   ML & Data Science Enthusiast | Backend Engineer | Python Developer
 </h2>
 
 <br>
- <h4 align="center">
-  - 🔭 I am a Computer Engineering graduate from the Institute of Engineering (IOE), Tribhuvan University, Pulchowk Campus.
-</h4>
+<h3 align="center">
+  🎓 Graduated from:<br>
+  Institute of Engineering (IOE),<br>
+  Tribhuvan University,<br>
+  Pulchowk Campus
+</h3>
 
 <h4 align="center">
   - 📫 How to reach me: samipneupane335@gmail.com
