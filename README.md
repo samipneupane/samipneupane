@@ -1,10 +1,11 @@
 <h2 align="center">
-  A Computer Engineering Student 💻
+  A Computer Engineering Graduate 💻
+  ML & Data Science Enthusiast | Backend Engineer | Python Developer
 </h2>
 
 <br>
  <h4 align="center">
-  - 🔭 I’m currently studying in: Pulchowk Engineering Campus
+  - 🔭 I am a Computer Engineering graduate from the Institute of Engineering (IOE), Tribhuvan University, Pulchowk Campus.
 </h4>
 
 <h4 align="center">
